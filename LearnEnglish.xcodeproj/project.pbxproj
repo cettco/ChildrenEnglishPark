@@ -1,0 +1,301 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1FFD3A4116AC24F900002FE6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FFD3A4016AC24F900002FE6 /* UIKit.framework */; };
+		1FFD3A4316AC24F900002FE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FFD3A4216AC24F900002FE6 /* Foundation.framework */; };
+		1FFD3A4516AC24F900002FE6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FFD3A4416AC24F900002FE6 /* CoreGraphics.framework */; };
+		1FFD3A4B16AC24F900002FE6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1FFD3A4916AC24F900002FE6 /* InfoPlist.strings */; };
+		1FFD3A4D16AC24F900002FE6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FFD3A4C16AC24F900002FE6 /* main.m */; };
+		1FFD3A5116AC24F900002FE6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FFD3A5016AC24F900002FE6 /* AppDelegate.m */; };
+		1FFD3A5316AC24F900002FE6 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FFD3A5216AC24F900002FE6 /* Default.png */; };
+		1FFD3A5516AC24F900002FE6 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FFD3A5416AC24F900002FE6 /* Default@2x.png */; };
+		1FFD3A5716AC24F900002FE6 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FFD3A5616AC24F900002FE6 /* Default-568h@2x.png */; };
+		1FFD3A5A16AC24F900002FE6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FFD3A5816AC24F900002FE6 /* MainStoryboard.storyboard */; };
+		1FFD3A5D16AC24F900002FE6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FFD3A5C16AC24F900002FE6 /* ViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1FFD3A3C16AC24F900002FE6 /* LearnEnglish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnEnglish.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FFD3A4016AC24F900002FE6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1FFD3A4216AC24F900002FE6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1FFD3A4416AC24F900002FE6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1FFD3A4816AC24F900002FE6 /* LearnEnglish-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LearnEnglish-Info.plist"; sourceTree = "<group>"; };
+		1FFD3A4A16AC24F900002FE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1FFD3A4C16AC24F900002FE6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1FFD3A4E16AC24F900002FE6 /* LearnEnglish-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LearnEnglish-Prefix.pch"; sourceTree = "<group>"; };
+		1FFD3A4F16AC24F900002FE6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1FFD3A5016AC24F900002FE6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1FFD3A5216AC24F900002FE6 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		1FFD3A5416AC24F900002FE6 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		1FFD3A5616AC24F900002FE6 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		1FFD3A5916AC24F900002FE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		1FFD3A5B16AC24F900002FE6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		1FFD3A5C16AC24F900002FE6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1FFD3A3916AC24F900002FE6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FFD3A4116AC24F900002FE6 /* UIKit.framework in Frameworks */,
+				1FFD3A4316AC24F900002FE6 /* Foundation.framework in Frameworks */,
+				1FFD3A4516AC24F900002FE6 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1FFD3A3116AC24F900002FE6 = {
+			isa = PBXGroup;
+			children = (
+				1FFD3A4616AC24F900002FE6 /* LearnEnglish */,
+				1FFD3A3F16AC24F900002FE6 /* Frameworks */,
+				1FFD3A3D16AC24F900002FE6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1FFD3A3D16AC24F900002FE6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1FFD3A3C16AC24F900002FE6 /* LearnEnglish.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1FFD3A3F16AC24F900002FE6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1FFD3A4016AC24F900002FE6 /* UIKit.framework */,
+				1FFD3A4216AC24F900002FE6 /* Foundation.framework */,
+				1FFD3A4416AC24F900002FE6 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1FFD3A4616AC24F900002FE6 /* LearnEnglish */ = {
+			isa = PBXGroup;
+			children = (
+				1FFD3A4F16AC24F900002FE6 /* AppDelegate.h */,
+				1FFD3A5016AC24F900002FE6 /* AppDelegate.m */,
+				1FFD3A5816AC24F900002FE6 /* MainStoryboard.storyboard */,
+				1FFD3A5B16AC24F900002FE6 /* ViewController.h */,
+				1FFD3A5C16AC24F900002FE6 /* ViewController.m */,
+				1FFD3A4716AC24F900002FE6 /* Supporting Files */,
+			);
+			path = LearnEnglish;
+			sourceTree = "<group>";
+		};
+		1FFD3A4716AC24F900002FE6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1FFD3A4816AC24F900002FE6 /* LearnEnglish-Info.plist */,
+				1FFD3A4916AC24F900002FE6 /* InfoPlist.strings */,
+				1FFD3A4C16AC24F900002FE6 /* main.m */,
+				1FFD3A4E16AC24F900002FE6 /* LearnEnglish-Prefix.pch */,
+				1FFD3A5216AC24F900002FE6 /* Default.png */,
+				1FFD3A5416AC24F900002FE6 /* Default@2x.png */,
+				1FFD3A5616AC24F900002FE6 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1FFD3A3B16AC24F900002FE6 /* LearnEnglish */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1FFD3A6016AC24F900002FE6 /* Build configuration list for PBXNativeTarget "LearnEnglish" */;
+			buildPhases = (
+				1FFD3A3816AC24F900002FE6 /* Sources */,
+				1FFD3A3916AC24F900002FE6 /* Frameworks */,
+				1FFD3A3A16AC24F900002FE6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LearnEnglish;
+			productName = LearnEnglish;
+			productReference = 1FFD3A3C16AC24F900002FE6 /* LearnEnglish.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1FFD3A3316AC24F900002FE6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = zhang;
+			};
+			buildConfigurationList = 1FFD3A3616AC24F900002FE6 /* Build configuration list for PBXProject "LearnEnglish" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1FFD3A3116AC24F900002FE6;
+			productRefGroup = 1FFD3A3D16AC24F900002FE6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1FFD3A3B16AC24F900002FE6 /* LearnEnglish */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1FFD3A3A16AC24F900002FE6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FFD3A4B16AC24F900002FE6 /* InfoPlist.strings in Resources */,
+				1FFD3A5316AC24F900002FE6 /* Default.png in Resources */,
+				1FFD3A5516AC24F900002FE6 /* Default@2x.png in Resources */,
+				1FFD3A5716AC24F900002FE6 /* Default-568h@2x.png in Resources */,
+				1FFD3A5A16AC24F900002FE6 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1FFD3A3816AC24F900002FE6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FFD3A4D16AC24F900002FE6 /* main.m in Sources */,
+				1FFD3A5116AC24F900002FE6 /* AppDelegate.m in Sources */,
+				1FFD3A5D16AC24F900002FE6 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1FFD3A4916AC24F900002FE6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1FFD3A4A16AC24F900002FE6 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1FFD3A5816AC24F900002FE6 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1FFD3A5916AC24F900002FE6 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1FFD3A5E16AC24F900002FE6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		1FFD3A5F16AC24F900002FE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1FFD3A6116AC24F900002FE6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LearnEnglish/LearnEnglish-Prefix.pch";
+				INFOPLIST_FILE = "LearnEnglish/LearnEnglish-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1FFD3A6216AC24F900002FE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LearnEnglish/LearnEnglish-Prefix.pch";
+				INFOPLIST_FILE = "LearnEnglish/LearnEnglish-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1FFD3A3616AC24F900002FE6 /* Build configuration list for PBXProject "LearnEnglish" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FFD3A5E16AC24F900002FE6 /* Debug */,
+				1FFD3A5F16AC24F900002FE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1FFD3A6016AC24F900002FE6 /* Build configuration list for PBXNativeTarget "LearnEnglish" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FFD3A6116AC24F900002FE6 /* Debug */,
+				1FFD3A6216AC24F900002FE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1FFD3A3316AC24F900002FE6 /* Project object */;
+}
