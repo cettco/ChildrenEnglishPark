@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>abc</key>
+	<dict>
+		<key>abc1</key>
+		<dict>
+			<key>word</key>
+			<string>a</string>
+			<key>meaning</key>
+			<string>art. 一；任一；每一</string>
+			<key>wiki</key>
+			<string>大写字母A A（a）是拉丁字母中的第一个字母，来源于在拉丁语中有/a/和/a:/音值的希腊字母A。它可以从伊特鲁里亚语和希腊语（α，阿尔法）追溯到闪族语的&apos;âlep（用于表示声门塞音）。这个字母的希腊名称是来源与闪族语的，而闪族语是由于希伯来语而闻名的。拉丁语和古英语的发音/a/和/a:/有其它的元音来代替。在其它语言中，例如意大利语、西班牙语和德语中，A基本上还是与在</string>
+		</dict>
+		<key>abc2</key>
+		<dict>
+			<key>word</key>
+			<string>b</string>
+			<key>meaning</key>
+			<string>n. 乙等（成绩）；英语字母的第二个字母</string>
+			<key>wiki</key>
+			<string>B test 英文26个字符中的第二个字符，也代表了化学元素硼。</string>
+		</dict>
+		<key>abc3</key>
+		<dict>
+			<key>word</key>
+			<string>c</string>
+			<key>meaning</key>
+			<string>n. 字母C</string>
+			<key>wiki</key>
+			<string>C语言是一种面向过程的计算机程序设计语言。最初为unix而生。它既有高级语言的特点，又具有汇编语言的特点。它可以作为系统设计语言，编写工作系统应用程序，也可以作为应用程序设计语言，编写不依赖计算机硬件的应用程序。因此，它的应用范围广泛。</string>
+		</dict>
+		<key>abc4</key>
+		<dict>
+			<key>word</key>
+			<string>d</string>
+			<key>meaning</key>
+			<string>n. 字母D</string>
+			<key>wiki</key>
+			<string>字母D D&amp;F是主打面部美白，护理，修复等功能的化妆品品牌。产品采用纯天然提取，萃取等方法，不但保证了产品的品质和效果，同时也令产品的安全性在同类产品中鹤立鸡群。产品的整体感觉充满淡淡的忧郁和隐隐若现的文艺气息。主要使用人群为以标妹为代表的新时代女性。名字：D&amp;F 主</string>
+		</dict>
+		<key>abc5</key>
+		<dict>
+			<key>word</key>
+			<string>e</string>
+			<key>meaning</key>
+			<string>n. 英语字母中的第五个字母</string>
+			<key>wiki</key>
+			<string>E, e 是拉丁字母中的第5个字母。它来源于一个与它形状和功能相像的希腊字母Epsilon （Ε, ε）。</string>
+		</dict>
+		<key>abc6</key>
+		<dict>
+			<key>word</key>
+			<string>f</string>
+			<key>meaning</key>
+			<string>n. 不及格；字母F</string>
+			<key>wiki</key>
+			<string>F, f 是拉丁字母中的第6个字母，它来源于表示音值/f/的组合FH。 这个字母是由伊特鲁里亚人发明的，在伊特鲁里亚语中，F发与希腊语相同的/w/（而在希腊语中叫做Digamma的字母Ϝ则消失了，因为这个音位在希腊语中消失了）。F的原型是闪族语中的字母wâw，它也发作/w/，这可能可以提供一个线索。</string>
+		</dict>
+		<key>abc7</key>
+		<dict>
+			<key>word</key>
+			<string>g</string>
+			<key>meaning</key>
+			<string>n. 英语字母的第七个字母</string>
+			<key>wiki</key>
+			<string>字母G来源于字母C。大约在公元前1000年，在比布鲁斯（古地中海港市，位于现黎巴嫩贝鲁特以北的朱拜勒，公元前第二个千年成为繁华的腓尼基城）和腓尼基的其他一些地方以及迦南的中心，这个符号是特定的线性形式（1），对于全部的线性形式来说。在闪族的语言中这个符号叫做gimel或是gaml,，意思是throwing stick（投掷棒）。希腊人重新改变的闪族人的命名称之为gamma。后来，当希腊人开始用从左</string>
+		</dict>
+		<key>abc8</key>
+		<dict>
+			<key>word</key>
+			<string>h</string>
+			<key>meaning</key>
+			<string>n. 英语字母中的第八个字母，小写为h
+symb. 氢（化学元素）</string>
+			<key>wiki</key>
+			<string>H, h 是拉丁字母中的第8个字母。</string>
+		</dict>
+		<key>abc9</key>
+		<dict>
+			<key>word</key>
+			<string>i</string>
+			<key>meaning</key>
+			<string>pron. 我
+n. 碘元素；英语字母I</string>
+			<key>wiki</key>
+			<string></string>
+		</dict>
+		<key>abc10</key>
+		<dict>
+			<key>word</key>
+			<string>j</string>
+			<key>meaning</key>
+			<string>n. 字母j</string>
+			<key>wiki</key>
+			<string>The tenth letter of the modern English alphabet. J字母：现代英语字母表中的第十个字母Any of the speech sounds represented by the letterj. 字母J的读音：用字母j 所表示的读音 The tenth in a series.第十个：序列中的第十个Something shaped like the l</string>
+		</dict>
+		<key>abc11</key>
+		<dict>
+			<key>word</key>
+			<string>k</string>
+			<key>meaning</key>
+			<string>n. 字母k
+abbr. 千（kilo-）</string>
+			<key>wiki</key>
+			<string>　金山毒霸新推出的2012测试版本中出现的新一代防御技术，与边界防御共同为毒霸2012版本的最新看点。 　　全新K+（铠甲）防御技术：新一代云主动防御技术，全面对抗流行病毒。 　　K+是本地系统防御的升级版本，金山的K+防御体系会将纯系统防御和云安全系统相挂接，最大限度在易用和安全之间寻求平衡。云安全+系统防御，能让攻击的门槛变得更高。 　　本地系统防御包括以下这些点，各安全厂商都会关注这些点：</string>
+		</dict>
+		<key>abc12</key>
+		<dict>
+			<key>word</key>
+			<string>l</string>
+			<key>meaning</key>
+			<string>n. 字母l（英语字母中的第十二个字母）</string>
+			<key>wiki</key>
+			<string></string>
+		</dict>
+		<key>abc13</key>
+		<dict>
+			<key>word</key>
+			<string>m</string>
+			<key>meaning</key>
+			<string>abbr. 米；模；毫；兆</string>
+			<key>wiki</key>
+			<string>m是英语字母、汉语拼音字母等等，在科技等方面广泛使用。</string>
+		</dict>
+		<key>abc14</key>
+		<dict>
+			<key>word</key>
+			<string>n</string>
+			<key>meaning</key>
+			<string>n. 英语字母的第十四个字母</string>
+			<key>wiki</key>
+			<string>N, n 是拉丁字母、英语字母、汉语拼音字母等中的一个字母；代表元素符号氮，氮用于制造氨气和化肥等；n代表的意义还有“很多”、交流电中表示“零线”等。</string>
+		</dict>
+		<key>abc15</key>
+		<dict>
+			<key>word</key>
+			<string>o</string>
+			<key>meaning</key>
+			<string>int. 哦，啊（表示惊讶、痛苦、恐惧、赞叹等）
+n. 零；英语字母中的第十五个字母
+symb. 氧（oxygen）</string>
+			<key>wiki</key>
+			<string>　血型当中的O代表血型抗原O型,RH阳性。</string>
+		</dict>
+		<key>abc16</key>
+		<dict>
+			<key>word</key>
+			<string>p</string>
+			<key>meaning</key>
+			<string>symb. 磷（phosphorus）
+n. 字母P
+abbr. 人员（personnel）；停车场（parking）</string>
+			<key>wiki</key>
+			<string>P, p 是拉丁字母中的第16个字母。来源于以前字母表的闪族语Pê（嘴）、希腊语Π或π（pi）、伊特鲁里亚语和拉丁语的字母都用来表示/p/，一个爆破清辅音。但是使用阿拉伯语的人通常很难发这个音，他们使用类似于的音来代替。字母P的含意大写P代表在化学中，P是磷元素的化学符号 在计算复杂性理中，P是在一个图林机上在多项式时间内可以解决的决定性问题的群。见复杂性 在国际单位制词头，P表示Peta</string>
+		</dict>
+		<key>abc17</key>
+		<dict>
+			<key>word</key>
+			<string>q</string>
+			<key>meaning</key>
+			<string>abbr. 女王，王后（Queen）
+n. 字母q</string>
+			<key>wiki</key>
+			<string>“Q”，是英语单词“cute”的谐音</string>
+		</dict>
+		<key>abc18</key>
+		<dict>
+			<key>word</key>
+			<string>r</string>
+			<key>meaning</key>
+			<string>n. 英语字母中的第十八个字母
+abbr. 电阻（resistance）；比率（ratio）；医生处方（recipe）</string>
+			<key>wiki</key>
+			<string>R, r 是拉丁字母中的第18个字母。</string>
+		</dict>
+		<key>abc19</key>
+		<dict>
+			<key>word</key>
+			<string>s</string>
+			<key>meaning</key>
+			<string>n. 字母s，英语字母中第十九个字母
+abbr. 南，南方（south）</string>
+			<key>wiki</key>
+			<string>s 是拉丁字母中的第19个字母。s被广泛运用于各个领域，其代表含义均不相同。例如：在物理学中，S的意思为秒，它是计时单位；在化学中，表示硫（sulfur）的化学符号 ；在计算机中，是一种统计编程语言。</string>
+		</dict>
+		<key>abc20</key>
+		<dict>
+			<key>word</key>
+			<string>t</string>
+			<key>meaning</key>
+			<string>symb. 氚（tritium）
+n. 英语字母中的第二十个字母</string>
+			<key>wiki</key>
+			<string>T, t 是拉丁字母中的第20个字母。网络中“踢”即“TI”的首字母Tâw是西方闪族语字母表和希伯来字母中的最后一个字母。闪族语中的Taw的音值、希腊字母..（Tau）以及伊特鲁里亚字母和拉丁字母的T都曾发作/t/。在北约音标字母中使用Tango来表示字母T。</string>
+		</dict>
+		<key>abc21</key>
+		<dict>
+			<key>word</key>
+			<string>u</string>
+			<key>meaning</key>
+			<string>n. 铀（化学元素）；英语字母中的第二十一个字母</string>
+			<key>wiki</key>
+			<string>U, u 是拉丁字母中的第21个字母。U起初是一个像J那样的大写字母，后来由Pierre de la Ramée把它与大小写字母分开来。</string>
+		</dict>
+		<key>abc22</key>
+		<dict>
+			<key>word</key>
+			<string>v</string>
+			<key>meaning</key>
+			<string>n. 英语字母中的第二十二个字母
+abbr. 钒（vanadium）；伏特（volt）</string>
+			<key>wiki</key>
+			<string>&quot;V&quot;形手势表示&quot;Victory&quot;即胜利这一点早已为人们所熟知，但是&quot;V&quot;字手势源于何时以及由此而引出的一些轶事，恐怕知道的人就不多了。 第二次世界大战期间，西欧沦陷，许多人纷纷流亡英国。当时有个名叫维克 多·德拉维利的比利时人，利用电台，每天从英国向比利时进行短波广播，号召同胞们奋起抗击德寇占领军。1940年末的一天晚上，他在广播里号召人们到处书写&quot;V&quot;字，以表示对最后胜利的坚定信心。几天之间，</string>
+		</dict>
+		<key>abc23</key>
+		<dict>
+			<key>word</key>
+			<string>w</string>
+			<key>meaning</key>
+			<string>n. 英语字母中的第二十三个字母</string>
+			<key>wiki</key>
+			<string>简介重要的钨化合物钨是稀有高熔点金属，属于元素周期表中第六周期（第二长周期）的VIB族。中文“钨”及符号“W”的来源均来自德语Wolfram。钢钨是属于有色金属，也是重要的战略金属，钨矿在古代被称为“重石”。1781年由瑞典化学家卡尔．威廉．舍耶尔发现白钨矿，并提取出新的元素酸－钨酸，1783年被西班牙人德普尔亚发现黑钨矿也从中提取出钨酸，同年，用碳还原三氧化钨第一次得到了钨粉，并命名该元素。</string>
+		</dict>
+		<key>abc24</key>
+		<dict>
+			<key>word</key>
+			<string>x</string>
+			<key>meaning</key>
+			<string>n. 未知数；Xs或X&apos;s；X级电影，成人电影（十八岁以下儿童不得观看）；英语字母中的第二十四个字母</string>
+			<key>wiki</key>
+			<string>x是人类染色体的一种表示！X在2003年前的药品批准文号里是指西药！</string>
+		</dict>
+		<key>abc25</key>
+		<dict>
+			<key>word</key>
+			<string>y</string>
+			<key>meaning</key>
+			<string>n. （大写）钇（yttrium）；英语字母中的第二十五个字母</string>
+			<key>wiki</key>
+			<string>Y&amp;R的品牌资产标量(Brand Asset Valuator,BAV) 　　扬-罗必凯（Young &amp; Rubicam）公司的品牌资产评估者（Brand Asset Valuator）：其前身是朗涛形象力模型（Landor Image Power）。该模型使用邮寄自填问卷，每3年进行一次消费者调查，覆盖了19个国家450个全球性品牌及24个国家的8000多个区域性品牌。</string>
+		</dict>
+		<key>abc26</key>
+		<dict>
+			<key>word</key>
+			<string>z</string>
+			<key>meaning</key>
+			<string>n. 英语字母表的第二十六个字母，小写为 z</string>
+			<key>wiki</key>
+			<string>n.（名词）【复数】 z&apos;s 或 Z&apos;s The 26th letter of the modern English alphabet.Z字母：现代英语字母表中的第二十六个字母Any of the speech sounds represented by the letterz. Z的读音：字母z 所代表的读音 The 26th in a series.序列中的第二十六Something sh</string>
+		</dict>
+	</dict>
+	<key>ani</key>
+	<dict>
+		<key>ani1</key>
+		<dict>
+			<key>word</key>
+			<string>bird</string>
+			<key>meaning</key>
+			<string>n. 鸟</string>
+			<key>wiki</key>
+			<string>鸟
+鸟是两足、恒温、卵生的脊椎动物，身披羽毛，前肢演化成翅膀，有坚硬的喙。鸟纲在生物分类学上是脊椎动物亚门下的一个纲。鸟类溯源于中生代侏罗纪始祖鸟。历史上曾经存在过大约10万种鸟，而幸存至今的只有十分之一，不及10,000种，20余目。</string>
+		</dict>
+		<key>ani2</key>
+		<dict>
+			<key>word</key>
+			<string>cat</string>
+			<key>meaning</key>
+			<string>n. 猫；猫科动物</string>
+			<key>wiki</key>
+			<string>哺乳动物，面呈圆形，脚有利爪，行动敏捷，会捉老鼠。</string>
+		</dict>
+		<key>ani3</key>
+		<dict>
+			<key>word</key>
+			<string>dog</string>
+			<key>meaning</key>
+			<string>n. 狗；</string>
+			<key>wiki</key>
+			<string>狗; 犬; 犬科动物 雄狗; 雄兽(尤指狐、狼等); 类似犬的动物 【英】【the dogs】跑狗(比赛) 无赖汉; 坏蛋; 卑鄙的人; 小人; 废物 【口】【常加形容词修饰】家伙 【美】妄自尊大; 装阔气; 铺张</string>
+		</dict>
+		<key>ani4</key>
+		<dict>
+			<key>word</key>
+			<string>horse</string>
+			<key>meaning</key>
+			<string>n. 马；骑兵；脚架；海洛因
+vt. 使骑马；系马于；捉弄
+vi. 骑马；作弄人</string>
+			<key>wiki</key>
+			<string>马
+马 马，草食性家畜。在4000年前被人类驯服。马在古代曾是农业生产、交通运输和军事等活动的主要动力。随着生产力的发展，科技水平的提高，动力机械的发明和广泛应用，马在现实生活中所起的作用越来越少，马匹主要用于马术运动和生产乳肉，饲养量大为减少。但在有些发展中国家和地区，马仍以役用为主，并是役力的重要来源。</string>
+		</dict>
+		<key>ani5</key>
+		<dict>
+			<key>word</key>
+			<string>lion</string>
+			<key>meaning</key>
+			<string>n. 狮子；名人；勇猛的人；社交场合的名流</string>
+			<key>wiki</key>
+			<string>狮
+狮是唯一一种雌雄两态的猫科动物。狮的体型巨大，公狮身长可达180cm，母狮也有160cm。狮的毛发短，体色有浅灰、黄色或茶色，不同的是雄狮还长有很长的鬃毛，鬃毛有淡棕色、深棕色、黑色等等，长长的鬃毛一直延伸到肩部和胸部。狮的体型巨大，综合统计，非洲雄狮平均体重185公斤，全长2.7米，最著名的草原霸主，仅次于东北虎、孟加拉虎的第三大猫科猛兽。</string>
+		</dict>
+		<key>ani6</key>
+		<dict>
+			<key>word</key>
+			<string>mouse</string>
+			<key>meaning</key>
+			<string>n. 鼠标；老鼠；胆小羞怯的人
+vt. 探出
+vi. 捕鼠；窥探</string>
+			<key>wiki</key>
+			<string>属于鼠科(Muridae)以及其他有关属的数目众多的啮齿动物之任何一种--亦称耗子</string>
+		</dict>
+		<key>ani7</key>
+		<dict>
+			<key>word</key>
+			<string>pig</string>
+			<key>meaning</key>
+			<string>n. 猪；猪肉；警察
+vi. 生小猪；像猪一样过活</string>
+			<key>wiki</key>
+			<string>PIG
+猪（学名：Susscrofa domestica），哺乳纲，偶蹄目，猪科，杂食类动物。猪一般多指家畜。猪是十二生肖之末,也称之为亥。我国养猪至少也有5600-6080年的历史。猪体肥肢短，性温驯，适应力强，易饲养，繁殖快，有黑、白、酱红或黑白花等色。</string>
+		</dict>
+		<key>ani8</key>
+		<dict>
+			<key>word</key>
+			<string>monkey</string>
+			<key>meaning</key>
+			<string>n. 猴子；顽童
+vi. 胡闹；捣蛋
+vt. 嘲弄</string>
+			<key>wiki</key>
+			<string>猴
+国画猴 猴是一个俗称。灵长目中很多动物我们都称之为猴。灵长目是哺乳纲的1目。动物界最高等的类群，大脑发达；眼眶朝向前方，眶间距窄；手和脚的趾（指）分开，大拇指灵活，多数能与其他趾（指）对握。包括原猴亚目和猿猴亚目。</string>
+		</dict>
+		<key>ani9</key>
+		<dict>
+			<key>word</key>
+			<string>panda</string>
+			<key>meaning</key>
+			<string>n. 熊猫；猫熊</string>
+			<key>wiki</key>
+			<string>大熊猫,中国四川西部、甘肃和陕西最南部产的一种大型哺乳类动物,大体上像熊,有时亦自成一科,大致上体白色、下体黑色,眼周有黑斑,耳黑色</string>
+		</dict>
+		<key>ani10</key>
+		<dict>
+			<key>word</key>
+			<string>turtle</string>
+			<key>meaning</key>
+			<string>n.[动]龟；[动]海龟
+vi.捕海龟，捕鳖；（船等）翻没，倾覆</string>
+			<key>wiki</key>
+			<string>龟
+龟，俗称乌龟，泛指龟鳖目的所有成员，是现存最古老的爬行动物。特征为身上长有非常坚固的甲壳，受袭击时龟可以把头、尾及四肢缩回龟壳内。大多数龟均为肉食性，以蠕虫、螺类、虾及小鱼等为食，亦食植物的茎叶。龟是通常可以在陆上及水中生活，亦有长时间在海中生活的海龟。龟亦是长寿的动物，自然环境中有超过百年寿命的。也是我国传说中四种吉祥物之一。</string>
+		</dict>
+	</dict>
+	<key>spo</key>
+	<dict>
+		<key>spo1</key>
+		<dict>
+			<key>word</key>
+			<string>archery</string>
+			<key>meaning</key>
+			<string>n. 箭术</string>
+			<key>wiki</key>
+			<string>射箭
+帕罗传统运动项目： 射箭（Archery）是不丹的传统国技，每人男人都会射箭。不丹的射箭和奥运会的射箭不一样，这里射箭是200米的长度，而奥运会一般是50米。</string>
+		</dict>
+		<key>spo2</key>
+		<dict>
+			<key>word</key>
+			<string>badminton</string>
+			<key>meaning</key>
+			<string>n. 羽毛球</string>
+			<key>wiki</key>
+			<string>羽毛球
+羽毛球 羽毛球是一项隔着球网，使用长柄网状球拍击打平口端扎有一圈羽毛的半球状软木的室内运动。依据参与的人数，可以分为单打与双打。现代羽毛球运动起源于英国格拉斯哥郡的伯明顿镇，1893年，世界上最早的羽毛球协会——英国羽毛球协会成立。20世纪初，羽毛球运动在英联邦国家逐步开展，随后又传至美洲、亚洲和大洋洲等国家。1992年巴塞罗那奥运会，羽毛球成为奥运会的正式比赛项目。</string>
+		</dict>
+		<key>spo3</key>
+		<dict>
+			<key>word</key>
+			<string>baseball</string>
+			<key>meaning</key>
+			<string>n. 棒球；棒球运动</string>
+			<key>wiki</key>
+			<string>棒球
+棒球 棒球运动是一种以棒打球为主要特点，集体性、对抗性很强的球类运动项目。它在国际上开展较为广泛，影响较大，被誉为“竞技与智慧的结合”。在美国、日本尤为盛行，被称为“国球”。其也是一种团体球类运动，法定比赛人数最少为9人，其近似的运动项目为垒球。棒球球员分为攻、守两方，利用球棒和手套，在一个扇形的棒球场里进行比赛。比赛中，两队轮流攻守：当进攻球员成功跑回本垒，就可得1分。</string>
+		</dict>
+		<key>spo4</key>
+		<dict>
+			<key>word</key>
+			<string>basketball</string>
+			<key>meaning</key>
+			<string>n. 篮球；篮球运动</string>
+			<key>wiki</key>
+			<string>篮球
+篮球（Basketball）是一个由两队参与的球类运动，每队出场5名队员。目的是将球进入对方球篮得分，并阻止对方获得球或得分。</string>
+		</dict>
+		<key>spo5</key>
+		<dict>
+			<key>word</key>
+			<string>bowling</string>
+			<key>meaning</key>
+			<string>n. 滚木球戏；保龄球戏
+v. 打保龄球（bowl的现在分词）</string>
+			<key>wiki</key>
+			<string>保龄球
+保龄球（bowling ）又叫“地滚球”，最初叫“九柱戏”，起源于德国。是一种在木板球道上用球滚击木瓶的室内体育运动。流行于欧、美、大洋洲和亚洲一些国家。保龄球具有娱乐性、趣味性、抗争性和技巧性，给人以身体和意志的锻炼。由于是室内活动，不受时间、气候等外界条件的影响，也不受年龄的限制，易学易打，所以成为男女老少人人皆宜的特殊运动。</string>
+		</dict>
+		<key>spo6</key>
+		<dict>
+			<key>word</key>
+			<string>football</string>
+			<key>meaning</key>
+			<string>橄榄球</string>
+			<key>wiki</key>
+			<string>橄榄球
+橄榄球，球类运动的一种。盛行于英、美、澳、日等国家。起源于英国，原名拉格比足球，简称拉格比。因其球形似橄榄，在中国称为橄榄球。</string>
+		</dict>
+		<key>spo7</key>
+		<dict>
+			<key>word</key>
+			<string>golf</string>
+			<key>meaning</key>
+			<string>n. 高尔夫球；高尔夫球运动
+vi. 打高尔夫球</string>
+			<key>wiki</key>
+			<string>高尔夫
+打高尔夫球是一项具有特殊魅力的运动。率先涉及打高尔夫球的是苏格兰北海岸的士兵，后来逐渐引起宫庭贵族和民间青年的浓厚兴趣，最终成为苏格兰的一项传统项目。尔后传入英格兰。十九世纪末传到美洲、澳洲及南非，二十世纪传到亚洲。由于打高尔夫球最早在宫庭贵族中盛行，加之高尔夫球场地设备昂贵，故有“贵族运动”之称。</string>
+		</dict>
+		<key>spo8</key>
+		<dict>
+			<key>word</key>
+			<string>table tennis</string>
+			<key>meaning</key>
+			<string>n. 乒乓球</string>
+			<key>wiki</key>
+			<string>乒乓球
+乒乓球 乒乓球，亦称桌球意即“桌上网球”，是一种世界流行的球类体育项目。乒乓球一名起源自1900年，因其打击时发出“Ping Pong”的声音而得名，在中国就以“乒乓球”作为它的官方名称，香港及澳门等地区亦同时使用。</string>
+		</dict>
+	</dict>
+	<key>fes</key>
+	<dict>
+		<key>fes1</key>
+		<dict>
+			<key>word</key>
+			<string>Independence Day</string>
+			<key>meaning</key>
+			<string>美国独立纪念日（7月4日）</string>
+			<key>wiki</key>
+			<string>美国独立日
+美国独立日 美国独立日（Independence Day）是美国的主要法定节日之一，日期为每年7月4日，以纪念1776年7月4日大陆会议在费城正式通过《独立宣言》。这一天会首先敲响费城的自由钟，各地居民自发地进行庆祝游行，政客会发表演说以颂扬美国传统的自由观念。</string>
+		</dict>
+		<key>fes2</key>
+		<dict>
+			<key>word</key>
+			<string>April Fools</string>
+			<key>meaning</key>
+			<string>四月愚人节</string>
+			<key>wiki</key>
+			<string>愚人节
+愚人节也称万愚节，或称幽默节，是西方社会民间传统节日。节期在每年4月1日。愚人节与古罗马的嬉乐节(Hilaria，3月25日)和印度的欢悦节有相似之处。从时间的选择上看与“春分”(3月21日)有关。在这期间天气常常突然变化，恰似是大自然在愚弄人类。</string>
+		</dict>
+		<key>fes3</key>
+		<dict>
+			<key>word</key>
+			<string>Halloween</string>
+			<key>meaning</key>
+			<string>n. 万圣节前夕（指十月三十一日夜晚）</string>
+			<key>wiki</key>
+			<string>万圣夜
+万圣夜（Halloween,为“AllHallowEve”的缩写，）在每年的10月31日，是指万圣节（AllHallow&apos;sDay）的前夜，是英语世界的传统节日，主要流行于北美、不列颠群岛、澳大利亚和新西兰。当晚小孩会穿上化妆服，戴上面具，挨家挨户收集榶果。华语地区常将万圣夜误称为万圣节。是在纪念所有的圣人（Hallow）那一天，要举行的弥撒仪式（Mass）。</string>
+		</dict>
+		<key>fes4</key>
+		<dict>
+			<key>word</key>
+			<string>Thanksgiving Day</string>
+			<key>meaning</key>
+			<string>n.感恩节</string>
+			<key>wiki</key>
+			<string>感恩节
+感恩节，(Thanksgiving Day)，是美国和加拿大共有的节日，一家人团聚一堂，享用烤火鸡和南瓜派是最经典的感恩节画面。不过，美国和加拿大感恩节的日期和起源都不一样。在美国，自1941年起，感恩节是在每年11月的第四个星期四；而加拿大是10月第二个星期一。</string>
+		</dict>
+		<key>fes5</key>
+		<dict>
+			<key>word</key>
+			<string>Valentine&apos;s Day</string>
+			<key>meaning</key>
+			<string>n. 情人节</string>
+			<key>wiki</key>
+			<string>情人节
+情人节（英文：Valentine&apos;s Day），又叫圣瓦伦丁节或圣华伦泰节，即每年的2月14日，是西方的传统节日之一。在这一天，人们会赠送礼物给情人或心仪的人，例如送巧克力、贺卡和花等，用以表达爱意或友好。情人节已成为欧美各国青年人喜爱的节日，并在世界其他地方流行开来。在中国，七夕节被称为中国的情人节。由于能表达共同的人类情怀，各国各地纷纷发掘了自身的“情人节”。</string>
+		</dict>
+	</dict>
+	<key>tra</key>
+	<dict>
+		<key>tra1</key>
+		<dict>
+			<key>word</key>
+			<string>bicycle</string>
+			<key>meaning</key>
+			<string>n. 自行车
+vi. 骑脚踏车
+vt. 骑自行车运送</string>
+			<key>wiki</key>
+			<string>自行车
+人力脚踏驱动的两轮车。又称脚踏车、单车。无噪声、无污染、自重轻、结构简单、造价低、使用维修方便，广泛用于交通代步、运载货物、体育锻炼和竞赛等。</string>
+		</dict>
+		<key>tra2</key>
+		<dict>
+			<key>word</key>
+			<string>ship</string>
+			<key>meaning</key>
+			<string>vt. 运送，乘船；以船运送
+vi. 上船；乘船旅行；当船员
+n. 船；舰；太空船</string>
+			<key>wiki</key>
+			<string>船舶
+船舶，指的是依靠人力，风帆，发动机等动力，能在水上移动的交通手段。另外，民用船一般称为船，军用船称为舰，小型船称为艇或舟，其总称为舰船或船艇。 是指能航行或停泊于水域进行运输或作业工具，按不同的使用要求而具有不同的技术性能、装备和结构型式。船舶在国防、国民经济和海洋开发等方面都占有十分重要的地位。军舰上的海军，商船上的海员，科考船上的科技人员，渔船上的渔民，他们各自行使着自己的职责。</string>
+		</dict>
+		<key>tra3</key>
+		<dict>
+			<key>word</key>
+			<string>car</string>
+			<key>meaning</key>
+			<string>n. 汽车；车厢</string>
+			<key>wiki</key>
+			<string>汽车
+汽车 原指以可燃气体作动力的运输车辆，也指有自身装备动力驱动的车辆。“汽车”（automobile）英文原意为“自动车”，在日本也称“自动车”（日本汉字中的汽车则是指我们所说的火车）其他文种也多是“自动车”</string>
+		</dict>
+		<key>tra4</key>
+		<dict>
+			<key>word</key>
+			<string>helicopter</string>
+			<key>meaning</key>
+			<string>n. [航] 直升飞机
+vi. [航] 乘直升飞机
+vt. 由直升机运送</string>
+			<key>wiki</key>
+			<string>直升机
+直升机 直升机，主要由机体和升力（含旋翼和尾桨）、动力、传动三大系统以及机载飞行设备等组成。旋翼一般由涡轮轴发动机或活塞式发动机通过由传动轴及减速器等组成的机械传动系统来驱动，也可由桨尖喷气产生的反作用力来驱动。目前实际应用的是机械驱动式的单旋翼直升机及双旋翼直升机，其中又以单旋翼直升机数量最多。1936年6月26日，世界第一架可正常操纵的直升机在德国首次试飞成功。</string>
+		</dict>
+		<key>tra5</key>
+		<dict>
+			<key>word</key>
+			<string>plane</string>
+			<key>meaning</key>
+			<string>n. 飞机</string>
+			<key>wiki</key>
+			<string>飞机
+由固定翼产生升力，由推进装置产生推(拉)力，在大气层中飞行的重于空气的航空器。</string>
+		</dict>
+		<key>tra6</key>
+		<dict>
+			<key>word</key>
+			<string>submarine</string>
+			<key>meaning</key>
+			<string>n. 潜水艇；</string>
+			<key>wiki</key>
+			<string>SUBMARINE
+submarine是能潜入水下活动和作战的舰艇，又称潜水艇，它具有良好的隐蔽性，较大的自给力，续航力和较强的突击威力，潜艇按战斗使命区分，有普通鱼雷攻击潜艇和战略导弹潜艇；按动力区分，有常规动力潜艇和核动力潜艇。 潜艇是能潜入水下活动和作战的舰艇，又称潜水艇，它具有良好的隐蔽性，较大的自给力，续航力和较强的</string>
+		</dict>
+		<key>tra7</key>
+		<dict>
+			<key>word</key>
+			<string>train</string>
+			<key>meaning</key>
+			<string>n. 火车</string>
+			<key>wiki</key>
+			<string>train
+铁路列车，亦称列车或火车，是指在铁路轨道上行驶的车辆，通常由多节车厢所组成. 种类 铁路列车按载荷物，可分为运货的货车和载客的客车；亦有两者一起的客货车。 铁路列车，亦称列车或火车，是指在铁路轨道上行驶的车辆，通常由多节车厢所组成.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
